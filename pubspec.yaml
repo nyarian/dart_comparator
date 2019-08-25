@@ -1,0 +1,13 @@
+name: comparator
+description: A starting point for Dart libraries or applications.
+version: 0.0.1
+homepage: https://github.com/nyarian/dart_comparator
+author: nyarian <orkay255@gmail.com>
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dev_dependencies:
+  strict:
+    git: https://github.com/nyarian/strict.git
+  test: ^1.6.0
